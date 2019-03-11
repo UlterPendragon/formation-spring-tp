@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.training.springcore.BigCorpApplicationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-03-11T11:30:08" hostname="DESKTOP-STIOD7I" time="1.185">
+  <properties/>
+  <testcase name="run" classname="com.training.springcore.BigCorpApplicationTest" time="1.185"/>
+  <system-out><![CDATA[Application startup
+==========================================================
+Application [BigCorp application (dev)] - version : 1
+plus d'informations sur https://bigcorp.com
+==========================================================
+]]></system-out>
+  <system-err><![CDATA[mars 11, 2019 12:30:08 PM org.springframework.context.support.AbstractApplicationContext prepareRefresh
+INFOS: Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@69b5866e: startup date [Mon Mar 11 12:30:08 CET 2019]; root of context hierarchy
+]]></system-err>
+</testsuite>
